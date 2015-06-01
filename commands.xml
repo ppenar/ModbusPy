@@ -1,0 +1,32 @@
+<commands>
+<command>
+	<function>5</function>
+	<adres>10</adres>
+	<value>1</value>
+</command>
+<command>
+	<function>5</function>
+	<adres>15</adres>
+	<value>0</value>
+</command>
+<command>
+	<function>5</function>
+	<adres>20</adres>
+	<value>0</value>
+</command>
+<command>
+	<function>6</function>
+	<adres>4</adres>
+	<value>123</value>
+</command>
+<command>
+	<function>6</function>
+	<adres>8</adres>
+	<value>456</value>
+</command>
+<command>
+	<function>6</function>
+	<adres>12</adres>
+	<value>789</value>
+</command>
+</commands>
